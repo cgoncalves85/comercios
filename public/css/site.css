@@ -1,0 +1,49 @@
+.swal2-styled.swal2-confirm {
+    text-transform: uppercase;
+    background-color: #145388 !important;
+    font-size: 0.9em !important;
+}
+
+.swal2-html-container {
+    text-transform: uppercase;
+    font-size: 0.8em;
+    font-weight: bold;
+}
+
+.swal2-styled {
+    padding: 3px 15px !important;
+}
+
+.swal2-title {
+    font-size: 1.2em !important;
+}
+
+.img-thumbnail {
+	height: 150px !important;
+}
+
+.txt {
+	text-transform: uppercase;
+}
+
+.texto-name {
+	font-size: 1.5em;
+}
+
+.texto-adress {
+	margin-top: 10px;
+	font-size: 0.85em;
+}
+
+.texto-phone {
+	display: inline-block;
+	margin-top: 15px;
+	font-size: 0.85em;
+}
+
+.texto-email {
+	margin-left: 25px;
+	display: inline-block;
+	margin-top: 15px;
+	font-size: 0.85em;
+}
